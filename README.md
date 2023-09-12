@@ -2,6 +2,11 @@
 
 This example shows how to configure Cypress to work with Next.js.
 
+## Medium article for reference
+
+Article Link: https://medium.com/readytowork-org/boosting-next-js-performance-a-guide-to-e2e-and-component-testing-with-cypress-d696a45114ba
+This repo is specifically created for the article mentioned above. You can follow the article along with this repository to understand E2E testing and Component testing in Next.js applications.
+
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-cypress)
